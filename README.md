@@ -36,6 +36,6 @@
 
 ## 第二步:连接配置服务器
 
-首先你需要有一个连接的工具,推荐使用putty(https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html),点开https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html,
-进行下载安装
+首先你需要有一个连接的工具,推荐使用<a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">putty</a>,点开https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html,
+进行下载安装.
 
