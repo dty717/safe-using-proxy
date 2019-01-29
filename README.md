@@ -72,5 +72,8 @@ pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 
 ## 第三步:下载客户端
 
-windows下参考https://github.com/shadowsocks/shadowsocks-windows,<a href="https://github.com/shadowsocks/shadowsocks-windows/releases">下载客户端</a>
+windows下参考https://github.com/shadowsocks/shadowsocks-windows,
+首先<a href="https://github.com/shadowsocks/shadowsocks-windows/releases">下载客户端</a>
+点开运行后,配置相关参数,输入服务器ip,ss server连接的端口和密码,然后点确定
+
 
