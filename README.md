@@ -49,3 +49,6 @@
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_10-02-47.gif)
 
 接下来就是安装ss server的环节,参考https://github.com/shadowsocks/shadowsocks/tree/master
+
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_10-09-57.gif)
+
