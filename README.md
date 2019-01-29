@@ -19,5 +19,11 @@
 
 记住到以上这一步在选择Billing Cycle时,有半年和一年的选项,价格是不一样的,但是平均价格差不多
 
-接下来是付款环节
+接下来是付款环节,填写相关的用户信息,在Payment Method选项时选择Alipay,在同意用户协议后点击complete order按钮
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_08-54-41.gif)
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/chrome_2019-01-29_09-01-17.png)
+之后点Pay,接下来就是正常的支付宝操作
+
+在成功之后,点击services下的my services
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_09-11-51.gif)
+
