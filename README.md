@@ -60,7 +60,6 @@ pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 ```
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-40-27.gif)
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-42-12.gif)
-![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-42-34.gif)
 
 接下来是启动ss server
 输入,其中443和password代表ss server连接的端口和密码,这里可以需要更换,其他的不变
@@ -69,4 +68,9 @@ pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 ```
 
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-43-11.gif)
+
+
+## 第三步:下载客户端
+
+windows下参考https://github.com/shadowsocks/shadowsocks-windows,<a href="https://github.com/shadowsocks/shadowsocks-windows/releases">下载客户端</a>
 
