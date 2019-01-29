@@ -43,6 +43,7 @@
 安装后打开putty软件,输入之前所说的ip地址和ssh port
 
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_10-01-20.gif)
+
 在新的dos界面上,输入root,和之前所说的root密码
 
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_10-02-47.gif)
