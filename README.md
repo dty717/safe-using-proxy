@@ -81,7 +81,12 @@ windows下参考https://github.com/shadowsocks/shadowsocks-windows,
 
 在ie浏览器中找到设置--->Internet选项--->连接---->局域网设置
 勾选为LAN使用代理服务器,地址填入127.0.0.1,端口位置之前的默认端口1080,勾选对本地地址不使用代理服务器,然后确定
+
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_12-26-26.gif)
+
 
 接下来就可以正常翻墙
 
+如果不用上网时,请取消代理服务器,就是取消勾选为LAN使用代理服务器
+
+那么如果不想的购买服务器的话,就直接从第三步开始,ip,端口和密码分别是174.137.56.112,443,password
