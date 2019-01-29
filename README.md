@@ -39,3 +39,9 @@
 首先你需要有一个连接的工具,推荐使用<a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">putty</a>,点开https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html,
 进行下载安装.
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_09-41-33.gif)
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_09-42-49.gif)
+安装后打开putty软件,输入之前所说的ip地址和ssh port
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_10-01-20.gif)
+在新的dos界面上,输入root,和之前所说的root密码
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_10-02-47.gif)
+接下来就是安装ss server的环节,参考https://github.com/shadowsocks/shadowsocks/tree/master
