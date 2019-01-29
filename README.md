@@ -26,4 +26,16 @@
 
 在成功之后,点击services下的my services
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_09-11-51.gif)
+点击KiwiVM Control Panel按钮
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/chrome_2019-01-29_09-14-01.png)
+在新的界面下,你将获得两个重要的信息,一个是IP address,一个是SSH Port
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_09-20-05.gif)
+接下来更重要的是生成root的密码,点击Root password modification后,点击Generate and set new root password,获得root密码
+记住root密码,只会显示一次,之后只能重新生成
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_09-23-11.gif)
+
+## 第二步:连接配置服务器
+
+首先你需要有一个连接的工具,推荐使用putty(https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html),点开https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html,
+进行下载安装
 
