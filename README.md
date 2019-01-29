@@ -38,4 +38,4 @@
 
 首先你需要有一个连接的工具,推荐使用<a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">putty</a>,点开https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html,
 进行下载安装.
-
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_09-41-33.gif)
