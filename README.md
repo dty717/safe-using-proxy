@@ -67,7 +67,7 @@ pip install git+https://github.com/shadowsocks/shadowsocks.git@master
     sudo ssserver -p 443 -k password -m aes-256-cfb --user nobody -d start
 ```
 
-![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-43-11.gif)
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_12-48-18.gif)
 
 
 ## 第三步:下载客户端
