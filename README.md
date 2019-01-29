@@ -16,3 +16,4 @@
 
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/chrome_2019-01-29_08-25-56.png)
 
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_08-27-11.gif)
