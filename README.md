@@ -74,6 +74,14 @@ pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 
 windows下参考https://github.com/shadowsocks/shadowsocks-windows,
 首先<a href="https://github.com/shadowsocks/shadowsocks-windows/releases">下载客户端</a>
-点开运行后,配置相关参数,输入服务器ip,ss server连接的端口和密码,然后点确定
+点开运行后,配置相关参数,输入服务器ip,ss server连接的端口和密码,然后点确定,其中默认代理服务器端口为1080
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_12-17-40.gif)
 
+## 第四步:设置代理服务器
+
+在ie浏览器中找到设置--->Internet选项--->连接---->局域网设置
+勾选为LAN使用代理服务器,地址填入127.0.0.1,端口位置之前的默认端口1080,勾选对本地地址不使用代理服务器,然后确定
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_12-26-26.gif)
+
+接下来就可以正常翻墙
 
