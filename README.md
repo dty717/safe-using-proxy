@@ -62,7 +62,7 @@ pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-42-12.gif)
 
 接下来是启动ss server
-输入,其中443和password代表ss server连接的端口和密码,这里可以需要更换,其他的不变
+输入(其中443和password代表ss server连接的端口和密码,这里可以需要更换,其他的不变)
 ```
     sudo ssserver -p 443 -k password -m aes-256-cfb --user nobody -d start
 ```
