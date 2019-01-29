@@ -50,5 +50,23 @@
 
 接下来就是安装ss server的环节,参考https://github.com/shadowsocks/shadowsocks/tree/master
 
-![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_10-09-57.gif)
+找到对应的安装的要求(CentOS:)
+依次输入以下行,遇到y/n,敲y加回车
+```
+yum install python-setuptools && easy_install pip
+sudo easy_install pip==1.2.1
+yum install git
+pip install git+https://github.com/shadowsocks/shadowsocks.git@master
+```
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-40-27.gif)
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-42-12.gif)
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-42-34.gif)
+
+接下来是启动ss server
+输入,其中443和password代表ss server连接的端口和密码,这里可以需要更换,其他的不变
+```
+    sudo ssserver -p 443 -k password -m aes-256-cfb --user nobody -d start
+```
+
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_11-43-11.gif)
 
