@@ -12,5 +12,7 @@
 
 ## 第一步:购买租用的服务器
 
-在这里我推荐使用搬瓦工(#https://bwh8.net/),点开网站,选择相应的服务,
+在这里我推荐使用搬瓦工(#https://bwh8.net/),点开网站,选择相应的服务
+
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/chrome_2019-01-29_08-25-56.png)
 
