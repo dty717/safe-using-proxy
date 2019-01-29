@@ -12,8 +12,12 @@
 
 ## 第一步:购买租用的服务器
 
-在这里我推荐使用搬瓦工(#https://bwh8.net/),点开网站,选择相应的服务
+在这里我推荐使用<a href="https://bwh8.net/">搬瓦工</a>,点开网站,选择相应的服务
 
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_08-27-11.gif)
 ![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_08-41-21.gif)
 
+记住到以上这一步在选择Billing Cycle时,有半年和一年的选项,价格是不一样的,但是平均价格差不多
+
+接下来是付款环节
+![alt text](https://github.com/dty717/safe-using-proxy/blob/master/picture/2019-01-29_08-54-41.gif)
