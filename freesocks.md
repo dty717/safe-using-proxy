@@ -5,6 +5,7 @@
 ## sock4
 
 Russian Federation  46.188.82.115       4136    SOCKS4
+
 Russian Federation  80.245.120.238      4145    SOCKS4
 
 ## 免费的vps
