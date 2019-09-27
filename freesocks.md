@@ -2,7 +2,7 @@
 
 免费的代理服务器可能会不安全
 
-## sock4
+## 免费的sock4
 
 Russian Federation  46.188.82.115       4136    SOCKS4
 
