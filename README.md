@@ -89,6 +89,21 @@ windows下参考https://github.com/shadowsocks/shadowsocks-windows,
 那么如果不想的购买服务器的话,就直接从第三步开始,ip,端口和密码分别是138.128.199.177,443,password(有效期:2019.11.28,目前被墙)
 
 ## ssh下的http proxy
-这个可能需要一些专业知识,服务器端安装squid,客户端下载kitty,使用ssh tunnel local模式,端口3128,http proxy就是127.0.0.1:3128
+这个可能需要一些专业知识,服务器端安装squid,客户端使用ssh tunnel local模式,端口3128,http proxy就是127.0.0.1:3128
+
+服务器
+```
+sudo apt-get install squid
+sudo nano /etc/ssh/sshd_config ##GatewayPorts yes去掉注释,然后保存
+sudo systemctl restart ssh
+```
+
+客户端
+```
+ssh -nNTv -L 127.0.0.1:3128:localhost:3128 my-username@my-vps-hostname-or-ip
+```
 
 这样有个好处就是,相当于外表使用ssh服务,而实际在使用翻墙,就是理论上无法分辨是正常使用还是翻墙
+
+
+
